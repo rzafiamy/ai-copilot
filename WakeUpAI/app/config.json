@@ -1,5 +1,6 @@
 {
     "upload_folder": "uploads/",
+    "storage_folder": "storage/",
     "allowed_extensions": ["pdf"],
     "llm_api_key": "your_api_key_here",
     "llm_api_url": "https://api.llmprovider.com",
