@@ -47,7 +47,7 @@ AI Copilot is an intelligent ecosystem designed to support and optimize every mo
 ## 🔧 **How to Use**
 1. Clone the repositories you're interested in:
    ```bash
-   git clone https://github.com/yourusername/WakeUpAI.git
+   git clone https://github.com/rzafiamy/WakeUpAI.git
    ```
 2. Follow the README in each repository for setup and usage instructions.
 
